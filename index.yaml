@@ -12,6 +12,6 @@ entries:
     name: ado-agent-helm-chart
     type: application
     urls:
-    - https://satyricon.github.io/helm-charts/ado-agent-helm-chart-0.1.0.tgz
+    - https://github.com/chmelmik/helm-chars/blob/main/ado-agent-helm-chart.tgz
     version: 0.1.0
 generated: "2021-05-18T22:32:13.272824+03:00"
