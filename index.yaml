@@ -6,7 +6,7 @@ entries:
     dependencies:
     - name: aad-pod-identity
       repository: https://raw.githubusercontent.com/Azure/aad-pod-identity/master/charts/
-      version: 1.6.0
+      version: 4.1.9
     description: A Helm chart for deploying Azure Devops build agent on Kubernetes
     digest: 7909bad286591d8a2a82ab0b8621dd434213d9c04cc46c8880c978295e3611e6
     name: ado-agent-helm-chart
