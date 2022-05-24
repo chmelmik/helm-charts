@@ -1,0 +1,11 @@
+apiVersion: v1
+appVersion: 1.6.0
+description: Deploy components for aad-pod-identity
+home: https://github.com/Azure/aad-pod-identity
+maintainers:
+- email: anish.ramasekar@gmail.com
+  name: aramase
+name: aad-pod-identity
+sources:
+- https://github.com/Azure/aad-pod-identity
+version: 1.6.0

@@ -1,0 +1,8 @@
+apiVersion: "aadpodidentity.k8s.io/v1"
+kind: AzureIdentity
+metadata:
+  name: {{ .Values.identity.name }}
+spec:
+  type: 0
+  resourceID: {{ .Values.identity.resource_id }}
+  clientID: {{ .Values.identity.client_id }}
