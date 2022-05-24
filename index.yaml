@@ -12,6 +12,6 @@ entries:
     name: ado-agent-helm-chart
     type: application
     urls:
-    - https://github.com/chmelmik/helm-charts/blob/main/ado-agent-helm-chart
+    - https://chmelmik.github.io/helm-charts/ado-agent-helm-chart-0.1.0.tar.gz
     version: 0.1.0
 generated: "2021-05-18T22:32:13.272824+03:00"
